@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "git-app": "apps/git-app",
+    "git-app-e2e": "apps/git-app-e2e",
+    "store": "libs/store"
+  }
+}
